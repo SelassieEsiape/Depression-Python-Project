@@ -41,4 +41,8 @@ if __name__ == "__main__":
     # Run regression model
     model = run_regression(depression_df)
 
+    # Save processed data for visuals
+    # depression_df.to_csv('Preprocessed_Depression_Student_Dataset.csv', index=False)
+
+
     
