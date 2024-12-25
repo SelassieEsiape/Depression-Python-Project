@@ -1,0 +1,197 @@
+Predictor_1,Predictor_2,Correlation
+Age,Age,1.0
+Academic Pressure,Age,0.027132220335097067
+Study Satisfaction,Age,-0.005092748097136942
+Study Hours,Age,0.05011249369782934
+Financial Stress,Age,-0.09534775064481492
+Gender_Male,Age,0.04214758273468517
+Sleep Duration_7-8 hours,Age,0.020693280865443045
+Sleep Duration_Less than 5 hours,Age,0.06566556833120424
+Sleep Duration_More than 8 hours,Age,-0.03630165047666857
+Dietary Habits_Moderate,Age,0.08541450426663849
+Dietary Habits_Unhealthy,Age,-0.09628778188809323
+Have you ever had suicidal thoughts ?_Yes,Age,0.0785086378981987
+Family History of Mental Illness_Yes,Age,-0.03599479427329433
+Depression_Yes,Age,-0.21562453448529736
+Age,Academic Pressure,0.027132220335097067
+Academic Pressure,Academic Pressure,1.0
+Study Satisfaction,Academic Pressure,-0.10157079810320145
+Study Hours,Academic Pressure,0.0530238969705225
+Financial Stress,Academic Pressure,0.0031675072120434075
+Gender_Male,Academic Pressure,-0.01168295908754096
+Sleep Duration_7-8 hours,Academic Pressure,-0.00496982011982107
+Sleep Duration_Less than 5 hours,Academic Pressure,-0.01497593689007561
+Sleep Duration_More than 8 hours,Academic Pressure,0.008195613654058293
+Dietary Habits_Moderate,Academic Pressure,-0.002071330973499678
+Dietary Habits_Unhealthy,Academic Pressure,-0.011150842916577194
+Have you ever had suicidal thoughts ?_Yes,Academic Pressure,0.03721906317776373
+Family History of Mental Illness_Yes,Academic Pressure,-0.025701678176322112
+Depression_Yes,Academic Pressure,0.47625917720292127
+Age,Study Satisfaction,-0.005092748097136942
+Academic Pressure,Study Satisfaction,-0.10157079810320145
+Study Satisfaction,Study Satisfaction,1.0
+Study Hours,Study Satisfaction,-0.014121624636660094
+Financial Stress,Study Satisfaction,-0.038012149726012884
+Gender_Male,Study Satisfaction,0.002295141592216468
+Sleep Duration_7-8 hours,Study Satisfaction,-0.018950526321689514
+Sleep Duration_Less than 5 hours,Study Satisfaction,0.00907748347425087
+Sleep Duration_More than 8 hours,Study Satisfaction,-0.012288646620367197
+Dietary Habits_Moderate,Study Satisfaction,0.00911620870496784
+Dietary Habits_Unhealthy,Study Satisfaction,-0.023940721590127646
+Have you ever had suicidal thoughts ?_Yes,Study Satisfaction,0.009642385694841493
+Family History of Mental Illness_Yes,Study Satisfaction,0.03797918964840816
+Depression_Yes,Study Satisfaction,-0.29348374165983493
+Age,Study Hours,0.05011249369782934
+Academic Pressure,Study Hours,0.0530238969705225
+Study Satisfaction,Study Hours,-0.014121624636660094
+Study Hours,Study Hours,1.0
+Financial Stress,Study Hours,0.015553548277508236
+Gender_Male,Study Hours,0.03954045320575224
+Sleep Duration_7-8 hours,Study Hours,0.0027371632634326714
+Sleep Duration_Less than 5 hours,Study Hours,-0.02321422345430948
+Sleep Duration_More than 8 hours,Study Hours,-0.09872782297694685
+Dietary Habits_Moderate,Study Hours,0.0016236432243847197
+Dietary Habits_Unhealthy,Study Hours,-0.034208822552170455
+Have you ever had suicidal thoughts ?_Yes,Study Hours,-0.009745502325810108
+Family History of Mental Illness_Yes,Study Hours,0.001239500259420964
+Depression_Yes,Study Hours,0.20044133961087968
+Age,Financial Stress,-0.09534775064481492
+Academic Pressure,Financial Stress,0.0031675072120434075
+Study Satisfaction,Financial Stress,-0.038012149726012884
+Study Hours,Financial Stress,0.015553548277508236
+Financial Stress,Financial Stress,1.0
+Gender_Male,Financial Stress,-0.05286686202232435
+Sleep Duration_7-8 hours,Financial Stress,0.0005755725675715223
+Sleep Duration_Less than 5 hours,Financial Stress,0.015683448730969562
+Sleep Duration_More than 8 hours,Financial Stress,-0.03473900207831554
+Dietary Habits_Moderate,Financial Stress,-0.0019616595491397048
+Dietary Habits_Unhealthy,Financial Stress,0.02996378046736967
+Have you ever had suicidal thoughts ?_Yes,Financial Stress,0.07181538798406291
+Family History of Mental Illness_Yes,Financial Stress,-0.016828464901618292
+Depression_Yes,Financial Stress,0.29684612826092316
+Age,Gender_Male,0.04214758273468517
+Academic Pressure,Gender_Male,-0.01168295908754096
+Study Satisfaction,Gender_Male,0.002295141592216468
+Study Hours,Gender_Male,0.03954045320575224
+Financial Stress,Gender_Male,-0.05286686202232435
+Gender_Male,Gender_Male,1.0
+Sleep Duration_7-8 hours,Gender_Male,-0.08316564749244269
+Sleep Duration_Less than 5 hours,Gender_Male,0.023944625331243908
+Sleep Duration_More than 8 hours,Gender_Male,0.045067825648603205
+Dietary Habits_Moderate,Gender_Male,-0.037702640141158185
+Dietary Habits_Unhealthy,Gender_Male,0.1276777007458244
+Have you ever had suicidal thoughts ?_Yes,Gender_Male,0.053634715596920825
+Family History of Mental Illness_Yes,Gender_Male,-0.008426922507495825
+Depression_Yes,Gender_Male,0.03168323346449731
+Age,Sleep Duration_7-8 hours,0.020693280865443045
+Academic Pressure,Sleep Duration_7-8 hours,-0.00496982011982107
+Study Satisfaction,Sleep Duration_7-8 hours,-0.018950526321689514
+Study Hours,Sleep Duration_7-8 hours,0.0027371632634326714
+Financial Stress,Sleep Duration_7-8 hours,0.0005755725675715223
+Gender_Male,Sleep Duration_7-8 hours,-0.08316564749244269
+Sleep Duration_7-8 hours,Sleep Duration_7-8 hours,1.0
+Sleep Duration_Less than 5 hours,Sleep Duration_7-8 hours,-0.333274537541244
+Sleep Duration_More than 8 hours,Sleep Duration_7-8 hours,-0.3422459893048129
+Dietary Habits_Moderate,Sleep Duration_7-8 hours,0.0013812443581718648
+Dietary Habits_Unhealthy,Sleep Duration_7-8 hours,0.03780008253121425
+Have you ever had suicidal thoughts ?_Yes,Sleep Duration_7-8 hours,0.07047763506031716
+Family History of Mental Illness_Yes,Sleep Duration_7-8 hours,0.0326813591338228
+Depression_Yes,Sleep Duration_7-8 hours,0.02509216628441538
+Age,Sleep Duration_Less than 5 hours,0.06566556833120424
+Academic Pressure,Sleep Duration_Less than 5 hours,-0.01497593689007561
+Study Satisfaction,Sleep Duration_Less than 5 hours,0.00907748347425087
+Study Hours,Sleep Duration_Less than 5 hours,-0.02321422345430948
+Financial Stress,Sleep Duration_Less than 5 hours,0.015683448730969562
+Gender_Male,Sleep Duration_Less than 5 hours,0.023944625331243908
+Sleep Duration_7-8 hours,Sleep Duration_Less than 5 hours,-0.333274537541244
+Sleep Duration_Less than 5 hours,Sleep Duration_Less than 5 hours,1.0
+Sleep Duration_More than 8 hours,Sleep Duration_Less than 5 hours,-0.3332745375412438
+Dietary Habits_Moderate,Sleep Duration_Less than 5 hours,0.0278776266315987
+Dietary Habits_Unhealthy,Sleep Duration_Less than 5 hours,-0.04320597242849839
+Have you ever had suicidal thoughts ?_Yes,Sleep Duration_Less than 5 hours,-0.025074556036994513
+Family History of Mental Illness_Yes,Sleep Duration_Less than 5 hours,0.045741029234864054
+Depression_Yes,Sleep Duration_Less than 5 hours,0.02088834305551023
+Age,Sleep Duration_More than 8 hours,-0.03630165047666857
+Academic Pressure,Sleep Duration_More than 8 hours,0.008195613654058293
+Study Satisfaction,Sleep Duration_More than 8 hours,-0.012288646620367197
+Study Hours,Sleep Duration_More than 8 hours,-0.09872782297694685
+Financial Stress,Sleep Duration_More than 8 hours,-0.03473900207831554
+Gender_Male,Sleep Duration_More than 8 hours,0.045067825648603205
+Sleep Duration_7-8 hours,Sleep Duration_More than 8 hours,-0.3422459893048129
+Sleep Duration_Less than 5 hours,Sleep Duration_More than 8 hours,-0.3332745375412438
+Sleep Duration_More than 8 hours,Sleep Duration_More than 8 hours,1.0
+Dietary Habits_Moderate,Sleep Duration_More than 8 hours,-0.017879440858558034
+Dietary Habits_Unhealthy,Sleep Duration_More than 8 hours,0.11517272852782792
+Have you ever had suicidal thoughts ?_Yes,Sleep Duration_More than 8 hours,-0.02099023670876047
+Family History of Mental Illness_Yes,Sleep Duration_More than 8 hours,-0.06802537364350392
+Depression_Yes,Sleep Duration_More than 8 hours,-0.06631761219727185
+Age,Dietary Habits_Moderate,0.08541450426663849
+Academic Pressure,Dietary Habits_Moderate,-0.002071330973499678
+Study Satisfaction,Dietary Habits_Moderate,0.00911620870496784
+Study Hours,Dietary Habits_Moderate,0.0016236432243847197
+Financial Stress,Dietary Habits_Moderate,-0.0019616595491397048
+Gender_Male,Dietary Habits_Moderate,-0.037702640141158185
+Sleep Duration_7-8 hours,Dietary Habits_Moderate,0.0013812443581718648
+Sleep Duration_Less than 5 hours,Dietary Habits_Moderate,0.0278776266315987
+Sleep Duration_More than 8 hours,Dietary Habits_Moderate,-0.017879440858558034
+Dietary Habits_Moderate,Dietary Habits_Moderate,1.0
+Dietary Habits_Unhealthy,Dietary Habits_Moderate,-0.5143141690825411
+Have you ever had suicidal thoughts ?_Yes,Dietary Habits_Moderate,-0.017503146755835135
+Family History of Mental Illness_Yes,Dietary Habits_Moderate,-0.035339805254626176
+Depression_Yes,Dietary Habits_Moderate,-0.036455665061304675
+Age,Dietary Habits_Unhealthy,-0.09628778188809323
+Academic Pressure,Dietary Habits_Unhealthy,-0.011150842916577194
+Study Satisfaction,Dietary Habits_Unhealthy,-0.023940721590127646
+Study Hours,Dietary Habits_Unhealthy,-0.034208822552170455
+Financial Stress,Dietary Habits_Unhealthy,0.02996378046736967
+Gender_Male,Dietary Habits_Unhealthy,0.1276777007458244
+Sleep Duration_7-8 hours,Dietary Habits_Unhealthy,0.03780008253121425
+Sleep Duration_Less than 5 hours,Dietary Habits_Unhealthy,-0.04320597242849839
+Sleep Duration_More than 8 hours,Dietary Habits_Unhealthy,0.11517272852782792
+Dietary Habits_Moderate,Dietary Habits_Unhealthy,-0.5143141690825411
+Dietary Habits_Unhealthy,Dietary Habits_Unhealthy,1.0
+Have you ever had suicidal thoughts ?_Yes,Dietary Habits_Unhealthy,0.06301899046421247
+Family History of Mental Illness_Yes,Dietary Habits_Unhealthy,-0.015087937070156262
+Depression_Yes,Dietary Habits_Unhealthy,0.17842360841579313
+Age,Have you ever had suicidal thoughts ?_Yes,0.0785086378981987
+Academic Pressure,Have you ever had suicidal thoughts ?_Yes,0.03721906317776373
+Study Satisfaction,Have you ever had suicidal thoughts ?_Yes,0.009642385694841493
+Study Hours,Have you ever had suicidal thoughts ?_Yes,-0.009745502325810108
+Financial Stress,Have you ever had suicidal thoughts ?_Yes,0.07181538798406291
+Gender_Male,Have you ever had suicidal thoughts ?_Yes,0.053634715596920825
+Sleep Duration_7-8 hours,Have you ever had suicidal thoughts ?_Yes,0.07047763506031716
+Sleep Duration_Less than 5 hours,Have you ever had suicidal thoughts ?_Yes,-0.025074556036994513
+Sleep Duration_More than 8 hours,Have you ever had suicidal thoughts ?_Yes,-0.02099023670876047
+Dietary Habits_Moderate,Have you ever had suicidal thoughts ?_Yes,-0.017503146755835135
+Dietary Habits_Unhealthy,Have you ever had suicidal thoughts ?_Yes,0.06301899046421247
+Have you ever had suicidal thoughts ?_Yes,Have you ever had suicidal thoughts ?_Yes,1.0
+Family History of Mental Illness_Yes,Have you ever had suicidal thoughts ?_Yes,-0.005981310913396787
+Depression_Yes,Have you ever had suicidal thoughts ?_Yes,0.4662961550982131
+Age,Family History of Mental Illness_Yes,-0.03599479427329433
+Academic Pressure,Family History of Mental Illness_Yes,-0.025701678176322112
+Study Satisfaction,Family History of Mental Illness_Yes,0.03797918964840816
+Study Hours,Family History of Mental Illness_Yes,0.001239500259420964
+Financial Stress,Family History of Mental Illness_Yes,-0.016828464901618292
+Gender_Male,Family History of Mental Illness_Yes,-0.008426922507495825
+Sleep Duration_7-8 hours,Family History of Mental Illness_Yes,0.0326813591338228
+Sleep Duration_Less than 5 hours,Family History of Mental Illness_Yes,0.045741029234864054
+Sleep Duration_More than 8 hours,Family History of Mental Illness_Yes,-0.06802537364350392
+Dietary Habits_Moderate,Family History of Mental Illness_Yes,-0.035339805254626176
+Dietary Habits_Unhealthy,Family History of Mental Illness_Yes,-0.015087937070156262
+Have you ever had suicidal thoughts ?_Yes,Family History of Mental Illness_Yes,-0.005981310913396787
+Family History of Mental Illness_Yes,Family History of Mental Illness_Yes,1.0
+Depression_Yes,Family History of Mental Illness_Yes,0.05608686837749594
+Age,Depression_Yes,-0.21562453448529736
+Academic Pressure,Depression_Yes,0.47625917720292127
+Study Satisfaction,Depression_Yes,-0.29348374165983493
+Study Hours,Depression_Yes,0.20044133961087968
+Financial Stress,Depression_Yes,0.29684612826092316
+Gender_Male,Depression_Yes,0.03168323346449731
+Sleep Duration_7-8 hours,Depression_Yes,0.02509216628441538
+Sleep Duration_Less than 5 hours,Depression_Yes,0.02088834305551023
+Sleep Duration_More than 8 hours,Depression_Yes,-0.06631761219727185
+Dietary Habits_Moderate,Depression_Yes,-0.036455665061304675
+Dietary Habits_Unhealthy,Depression_Yes,0.17842360841579313
+Have you ever had suicidal thoughts ?_Yes,Depression_Yes,0.4662961550982131
+Family History of Mental Illness_Yes,Depression_Yes,0.05608686837749594
+Depression_Yes,Depression_Yes,1.0

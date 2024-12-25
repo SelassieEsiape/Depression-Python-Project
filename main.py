@@ -2,6 +2,13 @@ import pandas as pd
 import numpy as np
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, accuracy_score, roc_auc_score
+from sklearn.ensemble import RandomForestClassifier
+from xgboost import XGBClassifier
+
+
 
 def preprocess_data(filepath):
     # Load the dataset
@@ -30,6 +37,19 @@ def run_regression(depression_df):
     
     return model
 
+def run_correlation_matrix(depression_df):
+    # Compute the correlation matrix
+    correlation_matrix = depression_df.corr()
+
+    # Melt the correlation matrix into a long format
+    correlation_data = correlation_matrix.reset_index().melt(id_vars='index', var_name='Predictor_2', value_name='Correlation')
+    correlation_data.rename(columns={'index': 'Predictor_1'}, inplace=True)
+
+    # Save to CSV for Power BI
+    correlation_data.to_csv('Correlation_Data.csv', index=False)
+
+
+
 # Main script
 if __name__ == "__main__":
     # Filepath to dataset
@@ -40,6 +60,9 @@ if __name__ == "__main__":
     
     # Run regression model
     model = run_regression(depression_df)
+
+    # Run correlation matrix
+    matrix = run_correlation_matrix(depression_df)
 
     # Save processed data for visuals
     # depression_df.to_csv('Preprocessed_Depression_Student_Dataset.csv', index=False)
