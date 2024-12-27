@@ -68,7 +68,6 @@ This corresponds to the following attributes:
 ### Results
 The script will display:
 - Predicted depression status (Yes/No)
-- Prediction probability (confidence score)
 
 ## Power BI Dashboard
 The exported correlation data (`Correlation_Data.csv`) can be loaded into Power BI to create interactive dashboards that visualize relationships between factors and student depression trends.
@@ -81,4 +80,4 @@ The exported correlation data (`Correlation_Data.csv`) can be loaded into Power 
 ## Contact
 For any questions or collaboration opportunities, feel free to reach out:
 - **Website**: [selassieesiape.com](https://selassieesiape.com)
-- **Email**: selassie@esiape.com
+- **Email**: esiapekjr@gmail.com
